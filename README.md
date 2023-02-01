@@ -11,7 +11,7 @@ YouTube UI Clones using TailwindCSS ⚡
 [![web](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://youtubewebui.netlify.app)
 
 ## Sneak Peek of Site 🙈 :
-![yt]([https://github.com/stenlisuryadinata/theOdinProject/blob/main/public/assets/images/sneakPeak.png])
+![yt](https://res.cloudinary.com/stenli-suryadinata/image/upload/v1675213489/sneakPeak.png)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
