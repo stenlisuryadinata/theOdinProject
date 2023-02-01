@@ -1,7 +1,7 @@
 ## YouTube UI Clone
 YouTube UI Clones using TailwindCSS ⚡
 
-### <a href="https://youtubewebui.netlify.app" target="_blank">**Visit Now 🚀**</a>
+### <a href="" target="_blank">**Visit Now 🚀**</a>
 
 ## Tech Stack :
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Web-UI-Clones/search?l=html)
